@@ -40,5 +40,5 @@ This project uses a webcam to detect hand landmarks, recognize gesture patterns,
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/shinobi-vision-pro.git
+git clone https://github.com/Emmanuel-agb/shinobi-vision-pro.git
 cd shinobi-vision-pro
